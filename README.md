@@ -1,2 +1,2 @@
 # SIMPLES
-SIMulating Pulsar Emission Scattering
+SIMulating PuLsar Emission Scattering
